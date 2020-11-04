@@ -1,2 +1,2 @@
 # tic-tac-toe
- A Tic-Tac-Tie game created with Unity
+ A Tic-Tac-Toe game created with Unity
